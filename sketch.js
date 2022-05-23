@@ -174,7 +174,7 @@ function draw() {
   }
 
   if(mousePressedOver(gnanasreeGame) && gnanasreePressed == true){
-    window.open("https://studio.code.org/projects/gamelab/ZesyIj5m2BguygBvYyPak-Uxv5uv2MyRmK7rwVlGoIg", "_blank")
+    window.open("https://studio.code.org/projects/spritelab/1-fR-f3Y_9cUXTv6d4fwlZq29-GY8XOxdCGDh2HzWlk/edit", "_blank")
   }
 
   if(mousePressedOver(jeevajenireethGame) && jeevaPressed == true){
