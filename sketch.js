@@ -10,7 +10,7 @@ function preload(){
   karthikImage = loadImage("karthikGame.png")
   dharshithImage = loadImage("dharshithGame.png")
   gurucharanImage = loadImage("guruCharanGame.png")
-  gnanasreeImage = loadImage("gnanasreeGame.png")
+  gnanasreeImage = loadImage("gnanasreegame.png")
   jeevajenireethImage = loadImage("jeevajenireethGame.png")
   vyshnaviImage = loadImage("vyshnaviGame.png")
   sherlyImage = loadImage("sherlyGame.png")
