@@ -54,7 +54,7 @@ function setup() {
 
  gnanasreeGame = createSprite(100,height-100,200,200)
  gnanasreeGame.addImage(gnanasreeImage)
- gnanasreeGame.scale = 0.9 
+ gnanasreeGame.scale = 0.8
  gnanasreeGame.visible = false
  button5 =  createSprite(100,height/2+110, 50, 50);
  button5.addImage(clickImg)
